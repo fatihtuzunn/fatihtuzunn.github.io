@@ -1,3 +1,0 @@
-# fatihtuzunn.github.io
-
-dsadasdsa
