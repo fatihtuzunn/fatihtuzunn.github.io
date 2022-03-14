@@ -1,5 +1,11 @@
 ---
+
+layout: post
 title: express.urlencoded ve express.json ne işe yarıyor?
+date:   2022-03-15 00:30:06 +0300
+categories: express
+
+
 ---
 
 Express de POST ile data göndermenin üç temel yöntemi vardır.
@@ -65,7 +71,7 @@ app.listen(3000);
 
 
 Daha fazlası;
-* https://dev.to/effingkay/cors-preflighted-requests--options-method-3024?signin=true
+* https://dev.to/effingkay/cors-preflighted-requests--options-method-3024
 * https://nkhilv.medium.com/what-does-express-urlencoded-do-anyway-8bdc4e638e1e
 * https://stackoverflow.com/questions/9870523/what-are-the-differences-between-application-json-and-application-x-www-form-url?rq=1
 * https://codex.so/handling-any-post-data-in-express
